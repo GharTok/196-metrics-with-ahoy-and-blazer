@@ -90,7 +90,7 @@ GEM
     execjs (2.7.0)
     ffaker (2.6.0)
     ffi (1.9.18)
-    geocoder (1.4.4)
+    geocoder (1.6.4)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
     groupdate (3.2.0)
